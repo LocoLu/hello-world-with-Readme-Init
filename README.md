@@ -1,3 +1,5 @@
 # hello-world-with-Readme-Init
 
-The initial file.
+Hello All.
+
+This is the start of my gihub journey.

@@ -2,4 +2,4 @@
 
 Hello All.
 
-This is the start of my gihub journey.
+This is the start of my github journey.
